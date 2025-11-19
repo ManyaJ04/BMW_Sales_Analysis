@@ -145,17 +145,14 @@ This analysis helps BMW (or any automotive business) to:
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Page 1 – Executive Overview
-![Page 1 Overview](photos/page1.png)
+![Page 1](images./page1.png)
 
----
+### 🔹 Page 2 – Detailed Insights
+![Page 2](images./page2.png)
 
-### 🔹 Page 2 – Deep Dive Analysis
-![Page 2 Detailed Insights](photos/page2.png)
+### 🔹 Page 3 – Additional Analysis
+![Page 3](images./page3.png)
 
----
-
-### 🔹 Page 3 – Additional Insights
-![Page 3 Additional Analysis](photos/page3.png)
 
 ---
 
