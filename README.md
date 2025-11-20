@@ -28,16 +28,16 @@ The dashboard is divided into **3 pages**:
 
 BMW-Global-Sales-Analytics/
 │
-├── images/                         # Folder containing all dashboard screenshots
-│   ├── page1.png                   # Screenshot of Dashboard - Page 1
-│   ├── page2.png                   # Screenshot of Dashboard - Page 2
-│   └── page3.png                   # Screenshot of Dashboard - Page 3
+├── images/                          # Folder containing all dashboard screenshots
+│   ├── page1.png                    # Screenshot of Dashboard - Page 1
+│   ├── page2.png                    # Screenshot of Dashboard - Page 2
+│   └── page3.png                    # Screenshot of Dashboard - Page 3
 │
 ├── BMW sales data (2010-2024) (1).csv   # Raw dataset used for analysis
 │
-├── BMW.pbix                        # Complete Power BI dashboard file
+├── BMW.pbix                          # Complete Power BI dashboard file
 │
-└── README.md                       # Main project documentation (this file)
+└── README.md                         # Main project documentation (this file)
 
 
 
