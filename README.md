@@ -148,10 +148,10 @@ This analysis helps BMW (or any automotive business) to:
 ![Page 1](images./page1.png)
 
 ### 🔹 Page 2 – Detailed Insights
-![Page 2](images./page2.png)
+![Page 2](images./Page2.png)
 
 ### 🔹 Page 3 – Additional Analysis
-![Page 3](images./page3.png)
+![Page 3](images./Page3.png)
 
 
 ---
