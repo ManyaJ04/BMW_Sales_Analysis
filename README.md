@@ -24,7 +24,23 @@ The dashboard is divided into **3 pages**:
 3. Additional Insights  
 
 ---
+## Project Structure
 
+BMW-Global-Sales-Analytics/
+│
+├── images./                 # Contains all dashboard screenshots
+│   ├── page1.png
+│   ├── Page2.png
+│   └── Page3.png
+│
+├── BMW sales data (2010-2024) (1).csv   # Raw dataset used for analysis
+│
+├── BMW.pbix                 # Complete Power BI dashboard file
+│
+└── README.md                # Project documentation (this file)
+
+
+---
 ## 📂 Dataset Description
 
 The dataset includes BMW’s global sales attributes covering **14 years (2010–2024)** and multiple vehicle characteristics.
