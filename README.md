@@ -140,8 +140,6 @@ This analysis helps BMW (or any automotive business) to:
 
 ---
 
----
-
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Page 1 – Executive Overview
@@ -179,10 +177,6 @@ The insights reveal:
 - Consistent annual revenue generation  
 
 BMW’s dataset clearly highlights long-term stability and growth opportunity across regions.
-
----
-
-## ⭐ If you found this project useful, please consider starring the repository!
 
 For suggestions, collaborations, or feedback — feel free to reach out!
 
